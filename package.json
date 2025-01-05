@@ -1,6 +1,6 @@
 {
 	"name": "@trenskow/print",
-	"version": "0.1.5",
+	"version": "0.1.6",
 	"description": "A simple package for printing to the console (or other streams).",
 	"main": "index.js",
 	"type": "module",
