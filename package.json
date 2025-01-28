@@ -26,11 +26,11 @@
 	"devDependencies": {
 		"@eslint/eslintrc": "^3.2.0",
 		"@eslint/js": "^9.17.0",
-		"eslint": "^9.18.0",
+		"eslint": "^9.19.0",
 		"globals": "^15.14.0"
 	},
 	"dependencies": {
 		"@trenskow/null-stream": "^0.1.2",
-		"keyd": "^2.1.20"
+		"keyd": "^2.1.21"
 	}
 }
