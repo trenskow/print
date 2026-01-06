@@ -30,7 +30,7 @@
 		"globals": "^17.0.0"
 	},
 	"dependencies": {
-		"@trenskow/null-stream": "^0.1.13",
-		"keyd": "^2.1.46"
+		"@trenskow/null-stream": "^0.1.14",
+		"keyd": "^2.1.47"
 	}
 }
