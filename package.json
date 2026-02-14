@@ -25,12 +25,12 @@
 	"homepage": "https://github.com/trenskow/printer#readme",
 	"devDependencies": {
 		"@eslint/eslintrc": "^3.3.3",
-		"@eslint/js": "^9.17.0",
-		"eslint": "^9.39.2",
+		"@eslint/js": "^10.0.1",
+		"eslint": "^10.0.0",
 		"globals": "^17.3.0"
 	},
 	"dependencies": {
 		"@trenskow/null-stream": "^0.1.15",
-		"keyd": "^2.1.50"
+		"keyd": "^2.1.51"
 	}
 }
