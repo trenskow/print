@@ -26,8 +26,8 @@
 	"devDependencies": {
 		"@eslint/eslintrc": "^3.3.5",
 		"@eslint/js": "^10.0.1",
-		"eslint": "^10.1.0",
-		"globals": "^17.4.0"
+		"eslint": "^10.3.0",
+		"globals": "^17.6.0"
 	},
 	"dependencies": {
 		"@trenskow/null-stream": "^0.1.17",
