@@ -31,6 +31,6 @@
 	},
 	"dependencies": {
 		"@trenskow/null-stream": "^0.1.24",
-		"keyd": "^2.1.71"
+		"keyd": "^2.1.72"
 	}
 }
