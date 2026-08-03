@@ -27,10 +27,10 @@
 		"@eslint/eslintrc": "^3.3.6",
 		"@eslint/js": "^10.0.1",
 		"eslint": "^10.8.0",
-		"globals": "^17.8.0"
+		"globals": "^17.9.0"
 	},
 	"dependencies": {
-		"@trenskow/null-stream": "^0.1.24",
-		"keyd": "^2.1.72"
+		"@trenskow/null-stream": "^0.1.25",
+		"keyd": "^2.1.73"
 	}
 }
